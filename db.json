@@ -1,0 +1,227 @@
+{
+    "SENSORES": [
+            {
+            "sensor1": [
+            {
+                "id": "sensor1"
+            },
+            {
+                "ubicacion": "zona norte"
+            },
+            {
+                "temperatura": "20"
+            },
+            {
+                "fecha": "24/03/2025"
+            },
+            {
+                "velocidad_viento": "30 km/h"
+            },
+            {
+                "direccion_viento": "sur"
+            },
+            {
+                "precipitaciones": "40%"
+            },
+            {
+                "indice_UV": "7"
+            },
+            {
+                "presion_ATM": "0,98"
+            },
+            {
+                "visibilidad": "30"
+            },
+            {
+                "humedad": "45%"
+            },
+            {
+                "sensacion_termica": "33"
+            },
+            {
+                "cobertura_nubes": "60%"
+            }
+            ]
+            },
+
+
+            {
+            "sensor2":[
+                {
+                    "id": "sensor2"
+                },
+                {
+                    "ubicacion": "zona sur"
+                },
+                {
+                    "temperatura": "22"
+                },
+                {
+                    "fecha": "24/03/2025"
+                },
+                {
+                    "velocidad_viento": "32 km/h"
+                },
+                {
+                    "direccion_viento": "sur-este"
+                },
+                {
+                    "precipitaciones": "60%"
+                },
+                {
+                    "indice_UV": "7"
+                },
+                {
+                    "presion_ATM": "0,98"
+                },
+                {
+                    "visibilidad": "26"
+                },
+                {
+                    "humedad": "66%"
+                },
+                {
+                    "sensacion_termica": "20"
+                },
+                {
+                    "cobertura_nubes": "70%"
+                }
+            ]
+            },
+            
+            
+            {
+            "sensor3": [
+                {
+                    "id": "sensor3"
+                },
+                {
+                    "ubicacion": "alta gracia"
+                },
+                {
+                    "temperatura": "26"
+                },
+                {
+                    "fecha": "24/03/2025"
+                },
+                {
+                    "velocidad_viento": "27 km/h"
+                },
+                {
+                    "direccion_viento": "sur"
+                },
+                {
+                    "precipitaciones": "45%"
+                },
+                {
+                    "indice_UV": "7"
+                },
+                {
+                    "presion_ATM": "0,98"
+                },
+                {
+                    "visibilidad": "33"
+                },
+                {
+                    "humedad": "30%"
+                },
+                {
+                    "sensacion_termica": "30"
+                },
+                {
+                    "cobertura_nubes": "65%"
+                }
+            ]
+            },
+
+
+            {
+            "sensor4": [
+                {
+                    "id": "sensor4"
+                },
+                {
+                    "ubicacion": "nueva cordoba"
+                },
+                {
+                    "temperatura": "34"
+                },
+                {
+                    "fecha": "24/03/2025"
+                },
+                {
+                    "velocidad_viento": "27 km/h"
+                },
+                {
+                    "direccion_viento": "sur-este"
+                },
+                {
+                    "precipitaciones": "55%"
+                },
+                {
+                    "indice_UV": "7"
+                },
+                {
+                    "presion_ATM": "0,98"
+                },
+                {
+                    "visibilidad": "24"
+                },
+                {
+                    "humedad": "80%"
+                },
+                {
+                    "sensacion_termica": "30"
+                },
+                {
+                    "cobertura_nubes": "65%"
+                }
+            ]
+            },
+
+            {
+            "sensor5": [
+                {
+                    "id": "sensor5"
+                },
+                {
+                    "ubicacion": "centro"
+                },
+                {
+                    "temperatura": "29"
+                },
+                {
+                    "fecha": "24/03/2025"
+                },
+                {
+                    "velocidad_viento": "31 km/h"
+                },
+                {
+                    "direccion_viento": "sur-este"
+                },
+                {
+                    "precipitaciones": "55%"
+                },
+                {
+                    "indice_UV": "7"
+                },
+                {
+                    "presion_ATM": "0,98"
+                },
+                {
+                    "visibilidad": "33"
+                },
+                {
+                    "humedad": "65%"
+                },
+                {
+                    "sensacion_termica": "29"
+                },
+                {
+                    "cobertura_nubes": "80%"
+                }
+            ]
+            }
+
+    ]
+}
