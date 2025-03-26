@@ -2,45 +2,45 @@
     "SENSORES": [
             {
             "sensor1": [
-            {
-                "id": "sensor1"
-            },
-            {
-                "ubicacion": "zona norte"
-            },
-            {
-                "temperatura": "20"
-            },
-            {
-                "fecha": "24/03/2025"
-            },
-            {
-                "velocidad_viento": "30 km/h"
-            },
-            {
-                "direccion_viento": "sur"
-            },
-            {
-                "precipitaciones": "40%"
-            },
-            {
-                "indice_UV": "7"
-            },
-            {
-                "presion_ATM": "0,98"
-            },
-            {
-                "visibilidad": "30"
-            },
-            {
-                "humedad": "45%"
-            },
-            {
-                "sensacion_termica": "33"
-            },
-            {
-                "cobertura_nubes": "60%"
-            }
+                {
+                    "id": "sensor1"
+                },
+                {
+                    "ubicacion": "zona norte"
+                },
+                {
+                    "temperatura": "20"
+                },
+                {
+                    "fecha": "24/03/2025"
+                },
+                {
+                    "velocidad_viento": "30 km/h"
+                },
+                {
+                    "direccion_viento": "sur"
+                },
+                {
+                    "precipitaciones": "40%"
+                },
+                {
+                    "indice_UV": "7"
+                },
+                {
+                    "presion_ATM": "0,98"
+                },
+                {
+                    "visibilidad": "30"
+                },
+                {
+                    "humedad": "45%"
+                },
+                {
+                    "sensacion_termica": "33"
+                },
+                {
+                    "cobertura_nubes": "60%"
+                }
             ]
             },
 
